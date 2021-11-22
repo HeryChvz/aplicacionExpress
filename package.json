@@ -1,0 +1,26 @@
+{
+  "name": "app_express",
+  "version": "1.0.0",
+  "description": "App que usa framework Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeryChvz/aplicacionExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Eduardo Heriberto Chavez Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeryChvz/aplicacionExpress/issues"
+  },
+  "homepage": "https://github.com/HeryChvz/aplicacionExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
